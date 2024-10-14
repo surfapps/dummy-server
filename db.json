@@ -5,94 +5,94 @@
         "count": 6,
         "items": [
             {
-            imageUrl: 'https://m.media-amazon.com/images/M/MV5BMGY4MWIyMzAtMTA1OS00NDc3LWE2ZTktMTQ4NTZmZjIxZjgxXkEyXkFqcGc@._V1_QL75_UX210_CR0,2,210,311_.jpg',
-            title: 'Better Call Saul',
-            categories: ['Western', 'Vintage', 'Sports', 'Horror'],
+            imageUrl: "https://m.media-amazon.com/images/M/MV5BMGY4MWIyMzAtMTA1OS00NDc3LWE2ZTktMTQ4NTZmZjIxZjgxXkEyXkFqcGc@._V1_QL75_UX210_CR0,2,210,311_.jpg",
+            title: "Better Call Saul",
+            categories: ["Western", "Vintage", "Sports", "Horror"],
             saved: true,
             rate: 8.7,
             releaseYear: 2020,
-            link: ''
+            link: ""
         },
         {
-            imageUrl: 'https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg',
-            title: 'The Shawshank redemption',
-            categories: ['Mystery', 'Science', 'Sports', 'Horror'],
+            imageUrl: "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX280_CR0,3,280,414_.jpg",
+            title: "The Shawshank redemption",
+            categories: ["Mystery", "Science", "Sports", "Horror"],
             saved: false,
             rate: 9.3,
             releaseYear: 2021,
-            link: ''
+            link: ""
         },
         {
-            imageUrl: 'https://m.media-amazon.com/images/M/MV5BYTJkNGQyZDgtZDQ0NC00MDM0LWEzZWQtYzUzZDEwMDljZWNjXkEyXkFqcGc@._V1_QL75_UY414_CR6,0,280,414_.jpg',
-            title: 'The God Faher',
-            categories: ['Drama', 'Action', 'Sports', 'Horror'],
+            imageUrl: "https://m.media-amazon.com/images/M/MV5BYTJkNGQyZDgtZDQ0NC00MDM0LWEzZWQtYzUzZDEwMDljZWNjXkEyXkFqcGc@._V1_QL75_UY414_CR6,0,280,414_.jpg",
+            title: "The God Faher",
+            categories: ["Drama", "Action", "Sports", "Horror"],
             saved: false,
             rate: 9.2,
             releaseYear: 2017,
-            link: ''
+            link: ""
         },
         {
-            imageUrl: 'https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_QL75_UX210_CR0,2,210,311_.jpg',
-            title: "Schindler's List",
-            categories: ['Comedy', 'Drama', 'Sports', 'Horror'],
+            imageUrl: "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_QL75_UX210_CR0,2,210,311_.jpg",
+            title: "Schindler"s List",
+            categories: ["Comedy", "Drama", "Sports", "Horror"],
             saved: true,
             rate: 9.0,
             releaseYear: 2024,
-            link: ''
+            link: ""
         },
         {
-            imageUrl: 'https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_QL75_UX280_CR0,8,280,414_.jpg',
-            title: '12 Angry Men',
-            categories: ['Thriller', 'War', 'Sports', 'Horror'],
+            imageUrl: "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_QL75_UX280_CR0,8,280,414_.jpg",
+            title: "12 Angry Men",
+            categories: ["Thriller", "War", "Sports", "Horror"],
             saved: false,
             rate: 9.0,
             releaseYear: 1994,
-            link: ''
+            link: ""
         },
         {
-            imageUrl: 'https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg',
-            title: 'The Lord of the Rings: Return of the Best North Ring',
-            categories: ['Action', 'Fiction', 'Sports', 'Horror'],
+            imageUrl: "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+            title: "The Lord of the Rings: Return of the Best North Ring",
+            categories: ["Action", "Fiction", "Sports", "Horror"],
             saved: false,
             rate: 9.0,
             releaseYear: 1860,
-            link: ''
+            link: ""
         },
         {
-            imageUrl: 'https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY414_CR3,0,280,414_.jpg',
-            title: 'Forrest Gump',
-            categories: ['Drama', 'Tragedy', 'Sports', 'Horror'],
+            imageUrl: "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY414_CR3,0,280,414_.jpg",
+            title: "Forrest Gump",
+            categories: ["Drama", "Tragedy", "Sports", "Horror"],
             saved: false,
             rate: 8.9,
             releaseYear: 2001,
-            link: ''
+            link: ""
         },
         {
-            imageUrl: 'https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX280_CR0,0,280,414_.jpg',
-            title: 'Inception',
-            categories: ['Fiction', 'Action', 'Sports', 'Horror'],
+            imageUrl: "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+            title: "Inception",
+            categories: ["Fiction", "Action", "Sports", "Horror"],
             saved: false,
             rate: 8.8,
             releaseYear: 2022,
-            link: ''
+            link: ""
         },
         {
-            imageUrl: 'https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg',
-            title: 'Interstellar',
-            categories: ['Science Fiction', 'Journey', 'Sports', 'Horror'],
+            imageUrl: "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX280_CR0,0,280,414_.jpg",
+            title: "Interstellar",
+            categories: ["Science Fiction", "Journey", "Sports", "Horror"],
             saved: false,
             rate: 8.8,
             releaseYear: 2006,
-            link: ''
+            link: ""
         },
         {
-            imageUrl: 'https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY414_CR1,0,280,414_.jpg',
-            title: 'The Silence of the Lambs',
-            categories: ['Horror', 'Drama', 'Sports', 'Horror'],
+            imageUrl: "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY414_CR1,0,280,414_.jpg",
+            title: "The Silence of the Lambs",
+            categories: ["Horror", "Drama", "Sports", "Horror"],
             saved: false,
             rate: 8.7,
             releaseYear: 2015,
-            link: ''
+            link: ""
         }
         ]
     },
