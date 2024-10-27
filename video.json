@@ -1,0 +1,39 @@
+{
+   "success":1,
+   "result":{
+      "_":"posts_categories_langs",
+      "count":1,
+      "items":[
+         {
+            "imageUrl":"https://m.media-amazon.com/images/M/MV5BMGY4MWIyMzAtMTA1OS00NDc3LWE2ZTktMTQ4NTZmZjIxZjgxXkEyXkFqcGc@._V1_QL75_UX210_CR0,2,210,311_.jpg",
+            "title":"Better Call Saul",
+            "categories":[
+               "Western",
+               "Vintage",
+               "Sports",
+               "Horror"
+            ],
+            "saved":true,
+            "rate":8.7,
+            "releaseYear":2020,
+            "link":"",
+            "thumbnailUrl":"https://m.media-amazon.com/images/M/MV5BYTk4ZjdkOTEtN2QyNC00ZDg1LWI3MTUtNDBmYTIwNmZhOWIyXkEyXkFqcGdeQWFsZWxvZw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+            "description":"Art the Clown is set to unleash chaos on the unsuspecting residents of Miles County as they peacefully drift off to sleep on Christmas Eve.",
+            "director":"Some bitch",
+            "writer":"A crazy man",
+            "stars":[
+               "John Doe",
+               "Rebeca Stims",
+               "Nickolas Sule",
+               "Philip Lahm"
+            ],
+            "duration":"Antonio Conte",
+         },
+      ]
+   },
+   "state":{
+      "version":"@1.0",
+      "generated_date":1728898933,
+      "trace_key":"vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
+   }
+}
