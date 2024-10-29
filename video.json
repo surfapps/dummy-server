@@ -14,6 +14,7 @@
                "Horror"
             ],
             "saved":true,
+            "type":"Movie",
             "rate":8.7,
             "releaseYear":2020,
             "link":"",
@@ -27,7 +28,7 @@
                "Nickolas Sule",
                "Philip Lahm"
             ],
-            "duration":"Antonio Conte",
+            "duration":7320000,
             "embedUrl":"https://embed.su/embed/movie/310131"
          }
       ]
