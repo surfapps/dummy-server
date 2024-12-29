@@ -1,110 +1,110 @@
 {
-    "success": 1,
-    "result": {
-        "_": "posts_categories_langs",
-        "count": 20,
-        "items": [
-            {
-                "name": "comedy",
-                "codeValue": "comedy",
-                "description": "Movies designed to make you laugh, filled with humorous situations and witty dialogue.",
-                "slug": "comedy"
-            },
-            {
-                "name": "action",
-                "codeValue": "action",
-                "description": "High-energy movies with thrilling sequences, intense fights, and daring stunts.",
-                "slug": "action"
-            },
-            {
-                "name": "drama",
-                "codeValue": "drama",
-                "description": "Emotionally charged narratives that explore complex human experiences and relationships.",
-                "slug": "drama"
-            },
-            {
-                "name": "horror",
-                "codeValue": "horror",
-                "description": "Spine-chilling movies that aim to frighten and thrill audiences with suspense and terror.",
-                "slug": "horror"
-            },
-            {
-                "name": "romance",
-                "codeValue": "romance",
-                "description": "Heartwarming stories that focus on love and relationships between characters.",
-                "slug": "romance"
-            },
-            {
-                "name": "thriller",
-                "codeValue": "thriller",
-                "description": "Movies filled with suspense, unexpected twists, and psychological tension.",
-                "slug": "thriller"
-            },
-            {
-                "name": "sci-fi",
-                "codeValue": "sci-fi",
-                "description": "Futuristic movies featuring advanced technology, space exploration, and otherworldly phenomena.",
-                "slug": "sci-fi"
-            },
-            {
-                "name": "fantasy",
-                "codeValue": "fantasy",
-                "description": "Imaginative movies with magical elements, mythical creatures, and fantastical worlds.",
-                "slug": "fantasy"
-            },
-            {
-                "name": "animation",
-                "codeValue": "animation",
-                "description": "Movies brought to life through artistic animation, appealing to all age groups.",
-                "slug": "animation"
-            },
-            {
-                "name": "mystery",
-                "codeValue": "mystery",
-                "description": "Intriguing movies centered around solving puzzles, crimes, or uncovering secrets.",
-                "slug": "mystery"
-            },
-            {
-                "name": "adventure",
-                "codeValue": "adventure",
-                "description": "Exciting movies featuring epic journeys, exploration, and daring escapades.",
-                "slug": "adventure"
-            },
-            {
-                "name": "documentary",
-                "codeValue": "documentary",
-                "description": "Informative movies that explore real-world topics and events with factual storytelling.",
-                "slug": "documentary"
-            },
-            {
-                "name": "biography",
-                "codeValue": "biography",
-                "description": "Movies based on the lives of notable individuals and their impactful stories.",
-                "slug": "biography"
-            },
-            {
-                "name": "musical",
-                "codeValue": "musical",
-                "description": "Entertaining movies that combine storytelling with songs and dance performances.",
-                "slug": "musical"
-            },
-            {
-                "name": "crime",
-                "codeValue": "crime",
-                "description": "Movies centered around illegal activities, law enforcement, and moral dilemmas.",
-                "slug": "crime"
-            },
-            {
-                "name": "western",
-                "codeValue": "western",
-                "description": "Classic movies set in the Old West, featuring cowboys, outlaws, and frontier life.",
-                "slug": "western"
-            }
-        ]
-    },
-    "state": {
-        "version": "@1.0",
-        "generated_date": 1728898933,
-        "trace_key": "vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
-    }
+   "success":1,
+   "result":{
+      "_":"posts_categories_langs",
+      "count":20,
+      "items":[
+         {
+            "name":"comedy",
+            "codeValue":"comedy",
+            "description":"Movies designed to make you laugh, filled with humorous situations and witty dialogue.",
+            "slug":"comedy"
+         },
+         {
+            "name":"action",
+            "codeValue":"action",
+            "description":"High-energy movies with thrilling sequences, intense fights, and daring stunts.",
+            "slug":"action"
+         },
+         {
+            "name":"drama",
+            "codeValue":"drama",
+            "description":"Emotionally charged narratives that explore complex human experiences and relationships.",
+            "slug":"drama"
+         },
+         {
+            "name":"horror",
+            "codeValue":"horror",
+            "description":"Spine-chilling movies that aim to frighten and thrill audiences with suspense and terror.",
+            "slug":"horror"
+         },
+         {
+            "name":"romance",
+            "codeValue":"romance",
+            "description":"Heartwarming stories that focus on love and relationships between characters.",
+            "slug":"romance"
+         },
+         {
+            "name":"thriller",
+            "codeValue":"thriller",
+            "description":"Movies filled with suspense, unexpected twists, and psychological tension.",
+            "slug":"thriller"
+         },
+         {
+            "name":"sci-fi",
+            "codeValue":"sci-fi",
+            "description":"Futuristic movies featuring advanced technology, space exploration, and otherworldly phenomena.",
+            "slug":"sci-fi"
+         },
+         {
+            "name":"fantasy",
+            "codeValue":"fantasy",
+            "description":"Imaginative movies with magical elements, mythical creatures, and fantastical worlds.",
+            "slug":"fantasy"
+         },
+         {
+            "name":"animation",
+            "codeValue":"animation",
+            "description":"Movies brought to life through artistic animation, appealing to all age groups.",
+            "slug":"animation"
+         },
+         {
+            "name":"mystery",
+            "codeValue":"mystery",
+            "description":"Intriguing movies centered around solving puzzles, crimes, or uncovering secrets.",
+            "slug":"mystery"
+         },
+         {
+            "name":"adventure",
+            "codeValue":"adventure",
+            "description":"Exciting movies featuring epic journeys, exploration, and daring escapades.",
+            "slug":"adventure"
+         },
+         {
+            "name":"documentary",
+            "codeValue":"documentary",
+            "description":"Informative movies that explore real-world topics and events with factual storytelling.",
+            "slug":"documentary"
+         },
+         {
+            "name":"biography",
+            "codeValue":"biography",
+            "description":"Movies based on the lives of notable individuals and their impactful stories.",
+            "slug":"biography"
+         },
+         {
+            "name":"musical",
+            "codeValue":"musical",
+            "description":"Entertaining movies that combine storytelling with songs and dance performances.",
+            "slug":"musical"
+         },
+         {
+            "name":"crime",
+            "codeValue":"crime",
+            "description":"Movies centered around illegal activities, law enforcement, and moral dilemmas.",
+            "slug":"crime"
+         },
+         {
+            "name":"western",
+            "codeValue":"western",
+            "description":"Classic movies set in the Old West, featuring cowboys, outlaws, and frontier life.",
+            "slug":"western"
+         }
+      ]
+   },
+   "state":{
+      "version":"@1.0",
+      "generated_date":1728898933,
+      "trace_key":"vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
+   }
 }
