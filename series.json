@@ -1,0 +1,155 @@
+{
+   "success": 1,
+   "result": {
+      "_": "posts_categories_langs",
+      "count": 1,
+      "items": [
+         {
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGY4MWIyMzAtMTA1OS00NDc3LWE2ZTktMTQ4NTZmZjIxZjgxXkEyXkFqcGc@._V1_QL75_UX210_CR0,2,210,311_.jpg",
+            "title": "Better Call Saul",
+            "slug": "better-call-soul",
+            "categories": [
+               "Western",
+               "Vintage",
+               "Sports",
+               "Horror"
+            ],
+            "saved": true,
+            "type": "Movie",
+            "rate": 8.7,
+            "releaseYear": 2020,
+            "link": "",
+            "thumbnailUrl": "https://m.media-amazon.com/images/M/MV5BYTk4ZjdkOTEtN2QyNC00ZDg1LWI3MTUtNDBmYTIwNmZhOWIyXkEyXkFqcGdeQWFsZWxvZw@@._V1_QL75_UX1000_CR0,0,1000,563_.jpg",
+            "description": "Art the Clown is set to unleash chaos on the unsuspecting residents of Miles County as they peacefully drift off to sleep on Christmas Eve.",
+            "directors": [
+               "John Doe",
+               "Alex Tell"
+            ],
+            "writers": [
+               "Max Pelin",
+               "Nici Winderman"
+            ],
+            "stars": [
+               "John Doe",
+               "Rebeca Stims",
+               "Nickolas Sule",
+               "Philip Lahm"
+            ],
+            "duration": 7320000,
+            "embedUrl": "https://embed.su/embed/movie/310131",
+            "embedUrlVidLink": "https://vidlink.pro/movie/786892",
+            "numberOfSeasons": 3,
+            "numberOfEpisodes": 9,
+            "seasons": [
+               {
+                  "name": "Season 1",
+                  "URL": "https://example.com/season1",
+                  "seasonNumber": 1,
+                  "imageUrl": "https://example.com/images/season1.jpg",
+                  "numberOfEpisodes": 3,
+                  "description": "Season 1 description.",
+                  "episodes": [
+                     {
+                        "name": "Episode 1",
+                        "URL": "https://example.com/season1/episode1",
+                        "episodeNumber": 1,
+                        "imageUrl": "https://example.com/images/season1/episode1.jpg",
+                        "description": "Episode 1 description.",
+                        "duration": 3600000
+                     },
+                     {
+                        "name": "Episode 2",
+                        "URL": "https://example.com/season1/episode2",
+                        "episodeNumber": 2,
+                        "imageUrl": "https://example.com/images/season1/episode2.jpg",
+                        "description": "Episode 2 description.",
+                        "duration": 3600000
+                     },
+                     {
+                        "name": "Episode 3",
+                        "URL": "https://example.com/season1/episode3",
+                        "episodeNumber": 3,
+                        "imageUrl": "https://example.com/images/season1/episode3.jpg",
+                        "description": "Episode 3 description.",
+                        "duration": 3600000
+                     }
+                  ]
+               },
+               {
+                  "name": "Season 2",
+                  "URL": "https://example.com/season2",
+                  "seasonNumber": 2,
+                  "imageUrl": "https://example.com/images/season2.jpg",
+                  "numberOfEpisodes": 3,
+                  "description": "Season 2 description.",
+                  "episodes": [
+                     {
+                        "name": "Episode 1",
+                        "URL": "https://example.com/season2/episode1",
+                        "episodeNumber": 1,
+                        "imageUrl": "https://example.com/images/season2/episode1.jpg",
+                        "description": "Episode 1 description.",
+                        "duration": 3600000
+                     },
+                     {
+                        "name": "Episode 2",
+                        "URL": "https://example.com/season2/episode2",
+                        "episodeNumber": 2,
+                        "imageUrl": "https://example.com/images/season2/episode2.jpg",
+                        "description": "Episode 2 description.",
+                        "duration": 3600000
+                     },
+                     {
+                        "name": "Episode 3",
+                        "URL": "https://example.com/season2/episode3",
+                        "episodeNumber": 3,
+                        "imageUrl": "https://example.com/images/season2/episode3.jpg",
+                        "description": "Episode 3 description.",
+                        "duration": 3600000
+                     }
+                  ]
+               },
+               {
+                  "name": "Season 3",
+                  "URL": "https://example.com/season3",
+                  "seasonNumber": 3,
+                  "imageUrl": "https://example.com/images/season3.jpg",
+                  "numberOfEpisodes": 3,
+                  "description": "Season 3 description.",
+                  "episodes": [
+                     {
+                        "name": "Episode 1",
+                        "URL": "https://example.com/season3/episode1",
+                        "episodeNumber": 1,
+                        "imageUrl": "https://example.com/images/season3/episode1.jpg",
+                        "description": "Episode 1 description.",
+                        "duration": 3600000
+                     },
+                     {
+                        "name": "Episode 2",
+                        "URL": "https://example.com/season3/episode2",
+                        "episodeNumber": 2,
+                        "imageUrl": "https://example.com/images/season3/episode2.jpg",
+                        "description": "Episode 2 description.",
+                        "duration": 3600000
+                     },
+                     {
+                        "name": "Episode 3",
+                        "URL": "https://example.com/season3/episode3",
+                        "episodeNumber": 3,
+                        "imageUrl": "https://example.com/images/season3/episode3.jpg",
+                        "description": "Episode 3 description.",
+                        "duration": 3600000
+                     }
+                  ]
+               }
+            ]
+         }
+      ]
+   },
+   "state": {
+      "version": "@1.0",
+      "generated_date": 1728898933,
+      "trace_key": "vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
+   }
+}
