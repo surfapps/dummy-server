@@ -43,7 +43,7 @@
             "seasons": [
                {
                   "name": "Season 1",
-                  "URL": "https://example.com/season1",
+                  "url": "https://example.com/season1",
                   "seasonNumber": 1,
                   "imageUrl": "https://example.com/images/season1.jpg",
                   "numberOfEpisodes": 3,
@@ -51,7 +51,7 @@
                   "episodes": [
                      {
                         "name": "Episode 1",
-                        "URL": "https://example.com/season1/episode1",
+                        "url": "https://example.com/season1/episode1",
                         "episodeNumber": 1,
                         "imageUrl": "https://example.com/images/season1/episode1.jpg",
                         "description": "Episode 1 description.",
@@ -59,7 +59,7 @@
                      },
                      {
                         "name": "Episode 2",
-                        "URL": "https://example.com/season1/episode2",
+                        "url": "https://example.com/season1/episode2",
                         "episodeNumber": 2,
                         "imageUrl": "https://example.com/images/season1/episode2.jpg",
                         "description": "Episode 2 description.",
@@ -67,7 +67,7 @@
                      },
                      {
                         "name": "Episode 3",
-                        "URL": "https://example.com/season1/episode3",
+                        "url": "https://example.com/season1/episode3",
                         "episodeNumber": 3,
                         "imageUrl": "https://example.com/images/season1/episode3.jpg",
                         "description": "Episode 3 description.",
@@ -77,7 +77,7 @@
                },
                {
                   "name": "Season 2",
-                  "URL": "https://example.com/season2",
+                  "url": "https://example.com/season2",
                   "seasonNumber": 2,
                   "imageUrl": "https://example.com/images/season2.jpg",
                   "numberOfEpisodes": 3,
@@ -85,7 +85,7 @@
                   "episodes": [
                      {
                         "name": "Episode 1",
-                        "URL": "https://example.com/season2/episode1",
+                        "url": "https://example.com/season2/episode1",
                         "episodeNumber": 1,
                         "imageUrl": "https://example.com/images/season2/episode1.jpg",
                         "description": "Episode 1 description.",
@@ -93,7 +93,7 @@
                      },
                      {
                         "name": "Episode 2",
-                        "URL": "https://example.com/season2/episode2",
+                        "url": "https://example.com/season2/episode2",
                         "episodeNumber": 2,
                         "imageUrl": "https://example.com/images/season2/episode2.jpg",
                         "description": "Episode 2 description.",
@@ -101,7 +101,7 @@
                      },
                      {
                         "name": "Episode 3",
-                        "URL": "https://example.com/season2/episode3",
+                        "url": "https://example.com/season2/episode3",
                         "episodeNumber": 3,
                         "imageUrl": "https://example.com/images/season2/episode3.jpg",
                         "description": "Episode 3 description.",
@@ -111,7 +111,7 @@
                },
                {
                   "name": "Season 3",
-                  "URL": "https://example.com/season3",
+                  "url": "https://example.com/season3",
                   "seasonNumber": 3,
                   "imageUrl": "https://example.com/images/season3.jpg",
                   "numberOfEpisodes": 3,
@@ -119,7 +119,7 @@
                   "episodes": [
                      {
                         "name": "Episode 1",
-                        "URL": "https://example.com/season3/episode1",
+                        "url": "https://example.com/season3/episode1",
                         "episodeNumber": 1,
                         "imageUrl": "https://example.com/images/season3/episode1.jpg",
                         "description": "Episode 1 description.",
@@ -127,7 +127,7 @@
                      },
                      {
                         "name": "Episode 2",
-                        "URL": "https://example.com/season3/episode2",
+                        "url": "https://example.com/season3/episode2",
                         "episodeNumber": 2,
                         "imageUrl": "https://example.com/images/season3/episode2.jpg",
                         "description": "Episode 2 description.",
@@ -135,7 +135,7 @@
                      },
                      {
                         "name": "Episode 3",
-                        "URL": "https://example.com/season3/episode3",
+                        "url": "https://example.com/season3/episode3",
                         "episodeNumber": 3,
                         "imageUrl": "https://example.com/images/season3/episode3.jpg",
                         "description": "Episode 3 description.",
