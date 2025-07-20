@@ -1,0 +1,86 @@
+{
+  "success": 1,
+  "result": {
+    "_": "directories",
+    "count": 12,
+    "items": [
+      {
+        "name": "Global Directory",
+        "country_code": null,
+        "population": 1152136,
+        "slug": "global"
+      },
+      {
+        "name": "United States",
+        "country_code": "us",
+        "population": 256312,
+        "slug": "us"
+      },
+      {
+        "name": "Russian",
+        "country_code": "ru",
+        "population": 125874,
+        "slug": "ru"
+      },
+      {
+        "name": "Germany",
+        "country_code": "de",
+        "population": 65988,
+        "slug": "de"
+      },
+      {
+        "name": "Italy",
+        "country_code": "it",
+        "population": 548736,
+        "slug": "it"
+      },
+      {
+        "name": "Espain",
+        "country_code": "es",
+        "population": 122589,
+        "slug": "es"
+      },
+      {
+        "name": "France",
+        "country_code": "fr",
+        "population": 65983,
+        "slug": "fr"
+      },
+      {
+        "name": "Brasil",
+        "country_code": "br",
+        "population": 784566,
+        "slug": "br"
+      },
+      {
+        "name": "Iran",
+        "country_code": "ir",
+        "population": 455444,
+        "slug": "ir"
+      },
+      {
+        "name": "Japan",
+        "country_code": "jp",
+        "population": 632541,
+        "slug": "jp"
+      },
+      {
+        "name": "Argentina",
+        "country_code": "ar",
+        "population": 32142,
+        "slug": "ar"
+      },
+      {
+        "name": "Mexico",
+        "country_code": "mx",
+        "population": 1152136,
+        "slug": "mx"
+      }
+    ]
+  },
+  "state": {
+    "version": "@1.0",
+    "generated_date": 1728898933,
+    "trace_key": "vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
+  }
+}
