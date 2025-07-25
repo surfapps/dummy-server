@@ -14,67 +14,67 @@
         "name": "USA",
         "country_code": "us",
         "population": 256312,
-        "slug": "us"
+        "slug": "unitedstates"
       },
       {
         "name": "Russian",
         "country_code": "ru",
         "population": 125874,
-        "slug": "ru"
+        "slug": "russian"
       },
       {
         "name": "Germany",
         "country_code": "de",
         "population": 65988,
-        "slug": "de"
+        "slug": "germany"
       },
       {
         "name": "Italy",
         "country_code": "it",
         "population": 548736,
-        "slug": "it"
+        "slug": "italy"
       },
       {
         "name": "Espain",
         "country_code": "es",
         "population": 122589,
-        "slug": "es"
+        "slug": "espain"
       },
       {
         "name": "France",
         "country_code": "fr",
         "population": 65983,
-        "slug": "fr"
+        "slug": "france"
       },
       {
         "name": "Brasil",
         "country_code": "br",
         "population": 784566,
-        "slug": "br"
+        "slug": "brasil"
       },
       {
         "name": "Iran",
         "country_code": "ir",
         "population": 455444,
-        "slug": "ir"
+        "slug": "iran"
       },
       {
         "name": "Japan",
         "country_code": "jp",
         "population": 632541,
-        "slug": "jp"
+        "slug": "japan"
       },
       {
         "name": "Argentina",
         "country_code": "ar",
         "population": 32142,
-        "slug": "ar"
+        "slug": "argentina"
       },
       {
         "name": "Mexico",
         "country_code": "mx",
         "population": 1152136,
-        "slug": "mx"
+        "slug": "mexico"
       }
     ]
   },
