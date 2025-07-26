@@ -1,68 +1,80 @@
 {
   "success": 1,
   "result": {
-    "_": "directories",
+    "_": "channels",
     "count": 12,
     "items": [
       {
-        "name": "Tesla",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 1152136
+        "name": "Global Directory",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 1152136,
+        "slug": "global"
       },
       {
-        "name": "Benz",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 256312
+        "name": "USA",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 256312,
+        "slug": "unitedstates"
       },
       {
-        "name": "Mazeratti",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 125874
+        "name": "Russian",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 125874,
+        "slug": "russian"
       },
       {
-        "name": "Fulex",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 65988
+        "name": "Germany",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 65988,
+        "slug": "germany"
       },
       {
-        "name": "Hunday",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 548736
+        "name": "Italy",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 548736,
+        "slug": "italy"
       },
       {
-        "name": "Saipa",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 122589
+        "name": "Espain",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 122589,
+        "slug": "espain"
       },
       {
-        "name": "Ford",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 65983
+        "name": "France",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 65983,
+        "slug": "france"
       },
       {
-        "name": "Chevrolet",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 784566
+        "name": "Brasil",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 784566,
+        "slug": "brasil"
       },
       {
-        "name": "Optima",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 455444
+        "name": "Iran",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 455444,
+        "slug": "iran"
       },
       {
-        "name": "Talisman",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 632541
+        "name": "Japan",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 632541,
+        "slug": "japan"
       },
       {
-        "name": "Peugeot",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 32142
+        "name": "Argentina",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 32142,
+        "slug": "argentina"
       },
       {
-        "name": "Pride",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "subscribers": 1152136
+        "name": "Mexico",
+        "image": "https://iranbit.net/file/VucRHLg5.png",
+        "subscribers": 1152136,
+        "slug": "mexico"
       }
     ]
   },
