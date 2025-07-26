@@ -1,0 +1,74 @@
+{
+  "success": 1,
+  "result": {
+    "_": "directories",
+    "count": 12,
+    "items": [
+      {
+        "name": "Tesla",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 1152136
+      },
+      {
+        "name": "Benz",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 256312
+      },
+      {
+        "name": "Mazeratti",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 125874
+      },
+      {
+        "name": "Fulex",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 65988
+      },
+      {
+        "name": "Hunday",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 548736
+      },
+      {
+        "name": "Saipa",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 122589
+      },
+      {
+        "name": "Ford",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 65983
+      },
+      {
+        "name": "Chevrolet",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 784566
+      },
+      {
+        "name": "Optima",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 455444
+      },
+      {
+        "name": "Talisman",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 632541
+      },
+      {
+        "name": "Peugeot",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 32142
+      },
+      {
+        "name": "Pride",
+        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
+        "subscribers": 1152136
+      }
+    ]
+  },
+  "state": {
+    "version": "@1.0",
+    "generated_date": 1728898933,
+    "trace_key": "vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
+  }
+}
