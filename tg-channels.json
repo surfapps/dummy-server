@@ -1,86 +1,86 @@
 {
-  "success": 1,
-  "result": {
-    "_": "channels",
-    "count": 12,
-    "items": [
-      {
-        "name": "Global Directory",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 1152136,
-        "slug": "global"
-      },
-      {
-        "name": "USA",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 256312,
-        "slug": "unitedstates"
-      },
-      {
-        "name": "Russian",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 125874,
-        "slug": "russian"
-      },
-      {
-        "name": "Germany",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 65988,
-        "slug": "germany"
-      },
-      {
-        "name": "Italy",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 548736,
-        "slug": "italy"
-      },
-      {
-        "name": "Espain",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 122589,
-        "slug": "espain"
-      },
-      {
-        "name": "France",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 65983,
-        "slug": "france"
-      },
-      {
-        "name": "Brasil",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 784566,
-        "slug": "brasil"
-      },
-      {
-        "name": "Iran",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 455444,
-        "slug": "iran"
-      },
-      {
-        "name": "Japan",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 632541,
-        "slug": "japan"
-      },
-      {
-        "name": "Argentina",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 32142,
-        "slug": "argentina"
-      },
-      {
-        "name": "Mexico",
-        "image": "https://iranbit.net/file/VucRHLg5.png",
-        "subscribers": 1152136,
-        "slug": "mexico"
-      }
-    ]
-  },
-  "state": {
-    "version": "@1.0",
-    "generated_date": 1728898933,
-    "trace_key": "vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
-  }
+   "success": 1,
+   "result": {
+      "_": "channels",
+      "count": 12,
+      "items": [
+         {
+            "name": "Global Directory",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 1152136,
+            "slug": "global"
+         },
+         {
+            "name": "USA",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 256312,
+            "slug": "unitedstates"
+         },
+         {
+            "name": "Russian",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 125874,
+            "slug": "russian"
+         },
+         {
+            "name": "Germany",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 65988,
+            "slug": "germany"
+         },
+         {
+            "name": "Italy",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 548736,
+            "slug": "italy"
+         },
+         {
+            "name": "Espain",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 122589,
+            "slug": "espain"
+         },
+         {
+            "name": "France",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 65983,
+            "slug": "france"
+         },
+         {
+            "name": "Brasil",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 784566,
+            "slug": "brasil"
+         },
+         {
+            "name": "Iran",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 455444,
+            "slug": "iran"
+         },
+         {
+            "name": "Japan",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 632541,
+            "slug": "japan"
+         },
+         {
+            "name": "Argentina",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 32142,
+            "slug": "argentina"
+         },
+         {
+            "name": "Mexico",
+            "image": "https://iranbit.net/file/VucRHLg5.png",
+            "subscribers": 1152136,
+            "slug": "mexico"
+         }
+      ]
+   },
+   "state": {
+      "version": "@1.0",
+      "generated_date": 1728898933,
+      "trace_key": "vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
+   }
 }
