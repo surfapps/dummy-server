@@ -75,6 +75,24 @@
             "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
             "subscribers": 1152136,
             "slug": "mexico"
+         },
+         {
+            "name": "Cuba",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+            "subscribers": 115236,
+            "slug": "cuba"
+         },
+         {
+            "name": "Canada",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+            "subscribers": 932136,
+            "slug": "canada"
+         },
+         {
+            "name": "Indonesia",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+            "subscribers": 5352111,
+            "slug": "indonesia"
          }
       ]
    },
