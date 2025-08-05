@@ -8,6 +8,7 @@
             "name": "Global Directory",
             "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
             "id": "@globaldirectory",
+            "slug": "globaldirectory",
             "subscribers": 126458,
             "rank": 14,
             "post_engage": 5400,
