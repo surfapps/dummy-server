@@ -7,6 +7,7 @@
          {
             "name": "Global Directory",
             "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+            "banner": "https://www.shutterstock.com/image-vector/global-abstract-bitcoin-crypto-currency-600nw-712705507.jpg",
             "id": "@globaldirectory",
             "slug": "globaldirectory",
             "subscribers": 126458,
