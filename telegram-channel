@@ -1,74 +1,36 @@
 {
-  "success": 1,
-  "result": {
-    "_": "directories",
-    "count": 12,
-    "items": [
-      {
-        "name": "Global Directory",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 1152136
-      },
-      {
-        "name": "USA",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 256312
-      },
-      {
-        "name": "Russian",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 125874
-      },
-      {
-        "name": "Germany",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 65988
-      },
-      {
-        "name": "Italy",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 548736
-      },
-      {
-        "name": "Espain",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 122589
-      },
-      {
-        "name": "France",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 65983
-      },
-      {
-        "name": "Brasil",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 784566
-      },
-      {
-        "name": "Iran",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 455444
-      },
-      {
-        "name": "Japan",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 632541
-      },
-      {
-        "name": "Argentina",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 32142
-      },
-      {
-        "name": "Mexico",
-        "image": "https://iranbit.net/file/VucRHLg5-72@72.png",
-        "population": 1152136
-      }
-    ]
-  },
-  "state": {
-    "version": "@1.0",
-    "generated_date": 1728898933,
-    "trace_key": "vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
-  }
+   "success": 1,
+   "result": {
+      "_": "channel",
+      "count": 1,
+      "items": [
+         {
+            "name": "Global Directory",
+            "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+            "banner": "https://cdn.wallpapersafari.com/31/2/A7C1GQ.jpg",
+            "id": "@globaldirectory",
+            "slug": "globaldirectory",
+            "category": "crypto",
+            "template_count": 10,
+            "subscribers": 126458,
+            "rank": 14,
+            "post_engage": 5400,
+            "hashtags": "SUI, Blockchain, Trade, Crypto",
+            "rating": 4.9,
+            "rating_count": 4958,
+            "overview": "Welcome to our Telegram channel! Here, we share the latest updates, insightful articles, and exclusive content tailored just for you. Whether you're looking for news, tips, or entertainment, we’ve got you covered. Join our growing community to stay informed and engaged with daily posts and discussions. Don’t miss out on exclusive offers, behind-the-scenes content, and interactive polls. Our goal is to provide value and foster meaningful connections among members. Feel free to share your thoughts and suggestions—we love hearing from you! Stay tuned for regular updates and surprises. Thanks for being part of our journey—let’s grow together!",
+            "bio": "Welcome to our Telegram channel! Here, we share the latest updates, insightful articles, and exclusive content tailored just for you. Whether you're looking for news, tips, or entertainment, we’ve got you covered. Join our growing community to stay informed and engaged with daily posts and discussions. Don’t miss out on exclusive offers, behind-the-scenes content, and interactive polls. Our goal is to provide value and foster meaningful connections among members. Feel free to share your thoughts and suggestions—we love hearing from you! Stay tuned for regular updates and surprises. Thanks for being part of our journey—let’s grow together!",
+            "language": "english",
+            "total_posts": 4958,
+            "avg_views": 4958,
+            "created_date": 4958,
+            "link": "https://www.google.com"
+         }
+      ]
+   },
+   "state": {
+      "version": "@1.0",
+      "generated_date": 1728898933,
+      "trace_key": "vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
+   }
 }
