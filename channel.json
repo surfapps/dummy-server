@@ -1,228 +1,228 @@
 {
-   "success": 1,
-   "result": {
-      "_": "channel",
-      "count": 1,
-      "items": [
+   "success":1,
+   "result":{
+      "_":"channel",
+      "count":1,
+      "items":[
          {
-            "name": "Global Directory",
-            "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-            "banner": "https://cdn.wallpapersafari.com/31/2/A7C1GQ.jpg",
-            "id": "@globaldirectory",
-            "slug": "globaldirectory",
-            "category": "crypto",
-            "template_count": 10,
-            "subscribers": 126458,
-            "rank": 14,
-            "post_engage": 5400,
-            "hashtags": "SUI, Blockchain, Trade, Crypto",
-            "rating": 4.9,
-            "rating_count": 4958,
-            "overview": "Welcome to our Telegram channel! Here, we share the latest updates, insightful articles, and exclusive content tailored just for you. Whether you're looking for news, tips, or entertainment, we’ve got you covered. Join our growing community to stay informed and engaged with daily posts and discussions. Don’t miss out on exclusive offers, behind-the-scenes content, and interactive polls. Our goal is to provide value and foster meaningful connections among members. Feel free to share your thoughts and suggestions—we love hearing from you! Stay tuned for regular updates and surprises. Thanks for being part of our journey—let’s grow together!",
-            "bio": "Welcome to our Telegram channel! Here, we share the latest updates, insightful articles, and exclusive content tailored just for you. Whether you're looking for news, tips, or entertainment, we’ve got you covered. Join our growing community to stay informed and engaged with daily posts and discussions. Don’t miss out on exclusive offers, behind-the-scenes content, and interactive polls. Our goal is to provide value and foster meaningful connections among members. Feel free to share your thoughts and suggestions—we love hearing from you! Stay tuned for regular updates and surprises. Thanks for being part of our journey—let’s grow together!",
-            "language": "english",
-            "total_posts": 4958,
-            "avg_views": 4958,
-            "created_date": 4958,
-            "link": "https://www.google.com",
-            "more_by_creator": {
-               "_": "channels",
-               "count": 15,
-               "items": [
+            "name":"Global Directory",
+            "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+            "banner":"https://cdn.wallpapersafari.com/31/2/A7C1GQ.jpg",
+            "id":"@globaldirectory",
+            "slug":"globaldirectory",
+            "category":"crypto",
+            "template_count":10,
+            "subscribers":126458,
+            "rank":14,
+            "post_engage":5400,
+            "hashtags":"SUI, Blockchain, Trade, Crypto",
+            "rating":4.9,
+            "rating_count":4958,
+            "overview":"Welcome to our Telegram channel! Here, we share the latest updates, insightful articles, and exclusive content tailored just for you. Whether you're looking for news, tips, or entertainment, we’ve got you covered. Join our growing community to stay informed and engaged with daily posts and discussions. Don’t miss out on exclusive offers, behind-the-scenes content, and interactive polls. Our goal is to provide value and foster meaningful connections among members. Feel free to share your thoughts and suggestions—we love hearing from you! Stay tuned for regular updates and surprises. Thanks for being part of our journey—let’s grow together!",
+            "bio":"Welcome to our Telegram channel! Here, we share the latest updates, insightful articles, and exclusive content tailored just for you. Whether you're looking for news, tips, or entertainment, we’ve got you covered. Join our growing community to stay informed and engaged with daily posts and discussions. Don’t miss out on exclusive offers, behind-the-scenes content, and interactive polls. Our goal is to provide value and foster meaningful connections among members. Feel free to share your thoughts and suggestions—we love hearing from you! Stay tuned for regular updates and surprises. Thanks for being part of our journey—let’s grow together!",
+            "language":"english",
+            "total_posts":4958,
+            "avg_views":4958,
+            "created_date":4958,
+            "link":"https://www.google.com",
+            "more_by_creator":{
+               "_":"channels",
+               "count":15,
+               "items":[
                   {
-                     "name": "Global Directory",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 1152136,
-                     "slug": "global"
+                     "name":"Global Directory",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":1152136,
+                     "slug":"global"
                   },
                   {
-                     "name": "USA",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 256312,
-                     "slug": "unitedstates"
+                     "name":"USA",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":256312,
+                     "slug":"unitedstates"
                   },
                   {
-                     "name": "Russian",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 125874,
-                     "slug": "russian"
+                     "name":"Russian",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":125874,
+                     "slug":"russian"
                   },
                   {
-                     "name": "Germany",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 65988,
-                     "slug": "germany"
+                     "name":"Germany",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":65988,
+                     "slug":"germany"
                   },
                   {
-                     "name": "Italy",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 548736,
-                     "slug": "italy"
+                     "name":"Italy",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":548736,
+                     "slug":"italy"
                   },
                   {
-                     "name": "Spain",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 122589,
-                     "slug": "espain"
+                     "name":"Spain",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":122589,
+                     "slug":"espain"
                   },
                   {
-                     "name": "France",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 65983,
-                     "slug": "france"
+                     "name":"France",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":65983,
+                     "slug":"france"
                   },
                   {
-                     "name": "Brasil",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 784566,
-                     "slug": "brasil"
+                     "name":"Brasil",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":784566,
+                     "slug":"brasil"
                   },
                   {
-                     "name": "Iran",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 455444,
-                     "slug": "iran"
+                     "name":"Iran",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":455444,
+                     "slug":"iran"
                   },
                   {
-                     "name": "Japan",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 632541,
-                     "slug": "japan"
+                     "name":"Japan",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":632541,
+                     "slug":"japan"
                   },
                   {
-                     "name": "Argentina",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 32142,
-                     "slug": "argentina"
+                     "name":"Argentina",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":32142,
+                     "slug":"argentina"
                   },
                   {
-                     "name": "Mexico",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 1152136,
-                     "slug": "mexico"
+                     "name":"Mexico",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":1152136,
+                     "slug":"mexico"
                   },
                   {
-                     "name": "Cuba",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 115236,
-                     "slug": "cuba"
+                     "name":"Cuba",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":115236,
+                     "slug":"cuba"
                   },
                   {
-                     "name": "Canada",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 932136,
-                     "slug": "canada"
+                     "name":"Canada",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":932136,
+                     "slug":"canada"
                   },
                   {
-                     "name": "Indonesia",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 5352111,
-                     "slug": "indonesia"
+                     "name":"Indonesia",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":5352111,
+                     "slug":"indonesia"
                   }
                ]
             },
-            "related": {
-               "_": "channels",
-               "count": 15,
-               "items": [
+            "related":{
+               "_":"channels",
+               "count":15,
+               "items":[
                   {
-                     "name": "Global Directory",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 1152136,
-                     "slug": "global"
+                     "name":"Global Directory",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":1152136,
+                     "slug":"global"
                   },
                   {
-                     "name": "USA",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 256312,
-                     "slug": "unitedstates"
+                     "name":"USA",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":256312,
+                     "slug":"unitedstates"
                   },
                   {
-                     "name": "Russian",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 125874,
-                     "slug": "russian"
+                     "name":"Russian",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":125874,
+                     "slug":"russian"
                   },
                   {
-                     "name": "Germany",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 65988,
-                     "slug": "germany"
+                     "name":"Germany",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":65988,
+                     "slug":"germany"
                   },
                   {
-                     "name": "Italy",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 548736,
-                     "slug": "italy"
+                     "name":"Italy",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":548736,
+                     "slug":"italy"
                   },
                   {
-                     "name": "Spain",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 122589,
-                     "slug": "espain"
+                     "name":"Spain",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":122589,
+                     "slug":"espain"
                   },
                   {
-                     "name": "France",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 65983,
-                     "slug": "france"
+                     "name":"France",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":65983,
+                     "slug":"france"
                   },
                   {
-                     "name": "Brasil",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 784566,
-                     "slug": "brasil"
+                     "name":"Brasil",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":784566,
+                     "slug":"brasil"
                   },
                   {
-                     "name": "Iran",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 455444,
-                     "slug": "iran"
+                     "name":"Iran",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":455444,
+                     "slug":"iran"
                   },
                   {
-                     "name": "Japan",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 632541,
-                     "slug": "japan"
+                     "name":"Japan",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":632541,
+                     "slug":"japan"
                   },
                   {
-                     "name": "Argentina",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 32142,
-                     "slug": "argentina"
+                     "name":"Argentina",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":32142,
+                     "slug":"argentina"
                   },
                   {
-                     "name": "Mexico",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 1152136,
-                     "slug": "mexico"
+                     "name":"Mexico",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":1152136,
+                     "slug":"mexico"
                   },
                   {
-                     "name": "Cuba",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 115236,
-                     "slug": "cuba"
+                     "name":"Cuba",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":115236,
+                     "slug":"cuba"
                   },
                   {
-                     "name": "Canada",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 932136,
-                     "slug": "canada"
+                     "name":"Canada",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":932136,
+                     "slug":"canada"
                   },
                   {
-                     "name": "Indonesia",
-                     "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
-                     "subscribers": 5352111,
-                     "slug": "indonesia"
+                     "name":"Indonesia",
+                     "image":"https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                     "subscribers":5352111,
+                     "slug":"indonesia"
                   }
                ]
-            },
+            }
          }
       ]
    },
-   "state": {
-      "version": "@1.0",
-      "generated_date": 1728898933,
-      "trace_key": "vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
+   "state":{
+      "version":"@1.0",
+      "generated_date":1728898933,
+      "trace_key":"vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
    }
 }
