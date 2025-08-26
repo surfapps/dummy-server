@@ -1,0 +1,254 @@
+{
+   "success": 1,
+   "result": {
+      "_": "unit",
+      "count": 5,
+      "items": [
+         {
+            "_": "channel",
+            "count": "6",
+            "items": [
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "Russian",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 125874,
+                  "slug": "russian"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               }
+            ]
+         },
+         {
+            "_": "category",
+            "count": "6",
+            "items": [
+               {
+                  "_": "category",
+                  "name": "comedy",
+                  "codeValue": "comedy",
+                  "count": 1200,
+                  "slug": "comedy"
+               },
+               {
+                  "_": "category",
+                  "name": "action",
+                  "codeValue": "action",
+                  "count": 800,
+                  "slug": "action"
+                },
+                {
+                  "_": "category",
+                  "name": "drama",
+                  "codeValue": "drama",
+                  "count": 56200,
+                  "slug": "drama"
+                },
+                {
+                  "_": "category",
+                  "name": "horror",
+                  "codeValue": "horror",
+                  "count": 18450,
+                  "slug": "horror"
+                },
+                {
+                  "_": "category",
+                  "name": "romance",
+                  "codeValue": "romance",
+                  "count": 26300,
+                  "slug": "romance"
+                },
+                {
+                  "_": "category",
+                  "name": "thriller",
+                  "codeValue": "thriller",
+                  "count": 10000,
+                  "slug": "thriller"
+                }
+            ]
+         },
+         {
+            "_": "channel",
+            "count": "6",
+            "items": [
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "Russian",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 125874,
+                  "slug": "russian"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               }
+            ]
+         },
+         {
+            "_": "channel",
+            "count": "6",
+            "items": [
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "Russian",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 125874,
+                  "slug": "russian"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               }
+            ]
+         },
+         {
+            "_": "channel",
+            "count": "6",
+            "items": [
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "Russian",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 125874,
+                  "slug": "russian"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               },
+               {
+                  "_": "channel",
+                  "name": "USA",
+                  "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+                  "subscribers": 256312,
+                  "slug": "unitedstates"
+               }
+            ]
+         }
+      ]
+   },
+   "state": {
+      "version": "@1.0",
+      "generated_date": 1728898933,
+      "trace_key": "vZMVVPROJV5LOcKYl9BYaR3WWcUXBh7qYMyBTU4UNzps8TdO0eu5ji5Wc19Q"
+   }
+}
