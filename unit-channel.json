@@ -6,6 +6,7 @@
       "items": [
          {
             "_": "channel",
+            "topic": "trending",
             "count": "6",
             "items": [
                {
@@ -54,6 +55,7 @@
          },
          {
             "_": "category",
+            "topic": "category",
             "count": "6",
             "items": [
                {
@@ -101,6 +103,7 @@
             ]
          },
          {
+            "topic": "top",
             "_": "channel",
             "count": "6",
             "items": [
@@ -150,6 +153,7 @@
          },
          {
             "_": "channel",
+            "topic": "sport",
             "count": "6",
             "items": [
                {
@@ -198,6 +202,7 @@
          },
          {
             "_": "channel",
+            "topic": "technology",
             "count": "6",
             "items": [
                {
