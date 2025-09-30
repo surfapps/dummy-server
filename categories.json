@@ -6,96 +6,112 @@
     "items": [
       {
         "name": "comedy",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "comedy",
         "count": 1200,
         "slug": "comedy"
       },
       {
         "name": "action",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "action",
         "count": 800,
         "slug": "action"
       },
       {
         "name": "drama",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "drama",
         "count": 56200,
         "slug": "drama"
       },
       {
         "name": "horror",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "horror",
         "count": 18450,
         "slug": "horror"
       },
       {
         "name": "romance",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "romance",
         "count": 26300,
         "slug": "romance"
       },
       {
         "name": "thriller",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "thriller",
         "count": 10000,
         "slug": "thriller"
       },
       {
         "name": "sci-fi",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "sci-fi",
         "count": 15488,
         "slug": "sci-fi"
       },
       {
         "name": "fantasy",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "fantasy",
         "count": 63100,
         "slug": "fantasy"
       },
       {
         "name": "animation",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "animation",
         "count": 19000,
         "slug": "animation"
       },
       {
         "name": "mystery",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "mystery",
         "count": 15487,
         "slug": "mystery"
       },
       {
         "name": "adventure",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "adventure",
         "count": 23569,
         "slug": "adventure"
       },
       {
         "name": "documentary",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "documentary",
         "count": 48956,
         "slug": "documentary"
       },
       {
         "name": "biography",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "biography",
         "count": 26000,
         "slug": "biography"
       },
       {
         "name": "musical",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "musical",
         "count": 26457,
         "slug": "musical"
       },
       {
         "name": "crime",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "crime",
         "count": 26255,
         "slug": "crime"
       },
       {
         "name": "western",
+        "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
         "codeValue": "western",
         "count": 45897,
         "slug": "western"
