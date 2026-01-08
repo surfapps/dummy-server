@@ -1,0 +1,383 @@
+{
+  "success": 1,
+  "result": {
+    "count": 15,
+    "items": [
+      {
+        "id": 1001,
+        "entry_signature": "channel_global_001",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 1,
+        "status": "published",
+        "published_at": 1704067200,
+        "details": {
+          "name": "Global Directory",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 1152136,
+          "slug": "global"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1002,
+        "entry_signature": "channel_usa_002",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 2,
+        "status": "published",
+        "published_at": 1704153600,
+        "details": {
+          "name": "USA",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 256312,
+          "slug": "unitedstates"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1003,
+        "entry_signature": "channel_russian_003",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 3,
+        "status": "published",
+        "published_at": 1704240000,
+        "details": {
+          "name": "Russian",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 125874,
+          "slug": "russian"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1004,
+        "entry_signature": "channel_germany_004",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 4,
+        "status": "published",
+        "published_at": 1704326400,
+        "details": {
+          "name": "Germany",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 65988,
+          "slug": "germany"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1005,
+        "entry_signature": "channel_italy_005",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 5,
+        "status": "published",
+        "published_at": 1704412800,
+        "details": {
+          "name": "Italy",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 548736,
+          "slug": "italy"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1006,
+        "entry_signature": "channel_spain_006",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 6,
+        "status": "published",
+        "published_at": 1704499200,
+        "details": {
+          "name": "Spain",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 122589,
+          "slug": "espain"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1007,
+        "entry_signature": "channel_france_007",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 7,
+        "status": "published",
+        "published_at": 1704585600,
+        "details": {
+          "name": "France",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 65983,
+          "slug": "france"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1008,
+        "entry_signature": "channel_brasil_008",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 8,
+        "status": "published",
+        "published_at": 1704672000,
+        "details": {
+          "name": "Brasil",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 784566,
+          "slug": "brasil"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1009,
+        "entry_signature": "channel_iran_009",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 9,
+        "status": "published",
+        "published_at": 1704758400,
+        "details": {
+          "name": "Iran",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 455444,
+          "slug": "iran"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1010,
+        "entry_signature": "channel_japan_010",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 10,
+        "status": "published",
+        "published_at": 1704844800,
+        "details": {
+          "name": "Japan",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 632541,
+          "slug": "japan"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1011,
+        "entry_signature": "channel_argentina_011",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 11,
+        "status": "published",
+        "published_at": 1704931200,
+        "details": {
+          "name": "Argentina",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 32142,
+          "slug": "argentina"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1012,
+        "entry_signature": "channel_mexico_012",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 12,
+        "status": "published",
+        "published_at": 1705017600,
+        "details": {
+          "name": "Mexico",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 1152136,
+          "slug": "mexico"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1013,
+        "entry_signature": "channel_cuba_013",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 13,
+        "status": "published",
+        "published_at": 1705104000,
+        "details": {
+          "name": "Cuba",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 115236,
+          "slug": "cuba"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1014,
+        "entry_signature": "channel_canada_014",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 14,
+        "status": "published",
+        "published_at": 1705190400,
+        "details": {
+          "name": "Canada",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 932136,
+          "slug": "canada"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      },
+      {
+        "id": 1015,
+        "entry_signature": "channel_indonesia_015",
+        "entry_group": "telegram_channels",
+        "entry_type": "channel",
+        "entry_num": 15,
+        "status": "published",
+        "published_at": 1705276800,
+        "details": {
+          "name": "Indonesia",
+          "image": "https://s2.coinmarketcap.com/static/img/coins/128x128/5426.png",
+          "subscribers": 5352111,
+          "slug": "indonesia"
+        },
+        "model": {
+          "id": 1,
+          "entry_type": "channel",
+          "created_at": 1704067200,
+          "project": {
+            "id": 100,
+            "namespace": "telegram",
+            "project_tag": "channels"
+          }
+        }
+      }
+    ]
+  }
+}
