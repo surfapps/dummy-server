@@ -1,0 +1,749 @@
+{
+    "success": 1,
+    "result": {
+        "page_landing": {
+            "id": 101,
+            "path_full": "/",
+            "state": "primary",
+            "created_at": 1718100000,
+            "updated_at": 1718100000,
+            "page": {
+                "id": 201,
+                "routing": {
+                    "id": 301,
+                    "routing_key": "landing",
+                    "ui_key": "default"
+                },
+                "is_indexed": true,
+                "modified_at": 1718100000,
+                "primary_path": null,
+                "langs": {
+                    "count": 1,
+                    "items": [
+                        {
+                            "id": 401,
+                            "properties": {
+                                "title": "TG Park Landing Page"
+                            },
+                            "is_indexed": true,
+                            "is_main": true,
+                            "created_at": 1718100000
+                        }
+                    ],
+                    "last_id": 401,
+                    "has_more": false
+                },
+                "records": {
+                    "count": 0,
+                    "items": [],
+                    "last_id": 0,
+                    "has_more": false
+                }
+            }
+        },
+        "categories": {
+            "count": 12,
+            "scopes": {
+                "count": 12,
+                "items": [
+                    {
+                        "id": 1001,
+                        "signature_hash": "sha256-hash-for-category-1",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 1,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Games & Fun",
+                            "description": "Play, challenge friends, and explore the best gaming bots.",
+                            "icon_name": "HeadCircuit"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1101,
+                                    "record_handle": "games-fun",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1101,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1201,
+                            "record_slug": "games-fun-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1002,
+                        "signature_hash": "sha256-hash-for-category-2",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 2,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Crypto & Web3",
+                            "description": "Stay updated on crypto trends, trade, and earn rewards.",
+                            "icon_name": "Acorn"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1102,
+                                    "record_handle": "crypto-web3",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1102,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1202,
+                            "record_slug": "crypto-web3-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1003,
+                        "signature_hash": "sha256-hash-for-category-3",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 3,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "News & Media",
+                            "description": "Follow real-time news channels, global stories, and feeds.",
+                            "icon_name": "Airplane"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1103,
+                                    "record_handle": "news-media",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1103,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1203,
+                            "record_slug": "news-media-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1004,
+                        "signature_hash": "sha256-hash-for-category-4",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 4,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Tools & Productivity",
+                            "description": "Automate workflows, translate text, and manage tasks.",
+                            "icon_name": "Alien"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1104,
+                                    "record_handle": "tools-productivity",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1104,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1204,
+                            "record_slug": "tools-productivity-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1005,
+                        "signature_hash": "sha256-hash-for-category-5",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 5,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Education & Tech",
+                            "description": "Learn coding, history, science, and stay updated.",
+                            "icon_name": "Anchor"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1105,
+                                    "record_handle": "education-tech",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1105,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1205,
+                            "record_slug": "education-tech-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1006,
+                        "signature_hash": "sha256-hash-for-category-6",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 6,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Finance & Business",
+                            "description": "Track stocks, portfolio growth, and market indicators.",
+                            "icon_name": "Atom"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1106,
+                                    "record_handle": "finance-business",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1106,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1206,
+                            "record_slug": "finance-business-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1007,
+                        "signature_hash": "sha256-hash-for-category-7",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 7,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Social & Chat",
+                            "description": "Find communities, meet new people, and discuss topics.",
+                            "icon_name": "House"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1107,
+                                    "record_handle": "social-chat",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1107,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1207,
+                            "record_slug": "social-chat-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1008,
+                        "signature_hash": "sha256-hash-for-category-8",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 8,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Art & Design",
+                            "description": "Get daily digital art, graphics, wallpapers, and prompts.",
+                            "icon_name": "Balloon"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1108,
+                                    "record_handle": "art-design",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1108,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1208,
+                            "record_slug": "art-design-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1009,
+                        "signature_hash": "sha256-hash-for-category-9",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 9,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Movies & Music",
+                            "description": "Listen to new albums, track movie reviews, and playlists.",
+                            "icon_name": "Basket"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1109,
+                                    "record_handle": "movies-music",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1109,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1209,
+                            "record_slug": "movies-music-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1010,
+                        "signature_hash": "sha256-hash-for-category-10",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 10,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Shopping & Deals",
+                            "description": "Discover discounts, price alerts, and online shopping bots.",
+                            "icon_name": "Basketball"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1110,
+                                    "record_handle": "shopping-deals",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1110,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1210,
+                            "record_slug": "shopping-deals-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1011,
+                        "signature_hash": "sha256-hash-for-category-11",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 11,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Health & Lifestyle",
+                            "description": "Track fitness goals, meditation schedules, and daily habits.",
+                            "icon_name": "Bell"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1111,
+                                    "record_handle": "health-lifestyle",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1111,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1211,
+                            "record_slug": "health-lifestyle-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 1012,
+                        "signature_hash": "sha256-hash-for-category-12",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 12,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "Travel & Places",
+                            "description": "Explore flight deals, hotel booking, and travel guides.",
+                            "icon_name": "Bird"
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 1112,
+                                    "record_handle": "travel-places",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 1112,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 1212,
+                            "record_slug": "travel-places-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    }
+                ],
+                "last_id": 1012,
+                "has_more": false
+            }
+        },
+        "languages": {
+            "count": 2,
+            "scopes": {
+                "count": 2,
+                "items": [
+                    {
+                        "id": 2001,
+                        "signature_hash": "sha256-hash-for-faq-one",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 1,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "FAQ One Title",
+                            "description": "This is a description for FAQ One."
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 2101,
+                                    "record_handle": "faq-one",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 2101,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 2201,
+                            "record_slug": "faq-one-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    },
+                    {
+                        "id": 2002,
+                        "signature_hash": "sha256-hash-for-faq-two",
+                        "record_group": "landing-group",
+                        "record_type": "landing-card",
+                        "record_num": 2,
+                        "status": "published",
+                        "published_at": 1718100000,
+                        "details": {
+                            "title": "FAQ Two Title",
+                            "description": "This is a description for FAQ Two."
+                        },
+                        "model": {
+                            "id": 501,
+                            "record_type": "landing-card",
+                            "created_at": 1718100000,
+                            "project": {
+                                "id": 601,
+                                "namespace": "tg-park",
+                                "project_key": "primary"
+                            }
+                        },
+                        "handles": {
+                            "count": 1,
+                            "items": [
+                                {
+                                    "id": 2102,
+                                    "record_handle": "faq-two",
+                                    "state": "primary",
+                                    "created_at": 1718100000,
+                                    "updated_at": 1718100000,
+                                    "model_handle": {
+                                        "id": 801,
+                                        "handle_type": "slug",
+                                        "is_multiple": false
+                                    }
+                                }
+                            ],
+                            "last_id": 2102,
+                            "has_more": false
+                        },
+                        "primary_slug": {
+                            "id": 2202,
+                            "record_slug": "faq-two-slug",
+                            "state": "primary",
+                            "updated_at": 1718100000
+                        }
+                    }
+                ],
+                "last_id": 2002,
+                "has_more": false
+            }
+        }
+    }
+}
