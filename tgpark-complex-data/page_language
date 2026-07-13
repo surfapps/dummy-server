@@ -1,0 +1,2603 @@
+{
+  "success": 1,
+  "result": {
+    "page_language": {
+      "id": 102,
+      "path_full": "/",
+      "state": "primary",
+      "created_at": 1718100000,
+      "updated_at": 1718100000,
+      "page": {
+        "id": 202,
+        "routing": {
+          "id": 302,
+          "routing_key": "language",
+          "ui_key": "default"
+        },
+        "is_indexed": true,
+        "modified_at": 1718100000,
+        "primary_path": null,
+        "langs": {
+          "count": 1,
+          "items": [
+            {
+              "id": 402,
+              "properties": {
+                "title": "TG Park Language Page"
+              },
+              "is_indexed": true,
+              "is_main": true,
+              "created_at": 1718100000
+            }
+          ],
+          "last_id": 402,
+          "has_more": false
+        },
+        "records": {
+          "count": 0,
+          "items": [],
+          "last_id": 0,
+          "has_more": false
+        }
+      }
+    },
+    "top": {
+      "count": 16,
+      "scopes": {
+        "count": 16,
+        "items": [
+          {
+            "id": 3001,
+            "signature_hash": "sha256-hash-for-language-3001",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 1,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "CryptoPulse",
+              "subscriber_count": 21574
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3101,
+                  "record_handle": "cryptopulse",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3101,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3201,
+              "record_slug": "cryptopulse-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3002,
+            "signature_hash": "sha256-hash-for-language-3002",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 2,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "GameHub Central",
+              "subscriber_count": 30747
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3102,
+                  "record_handle": "gamehub-central",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3102,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3202,
+              "record_slug": "gamehub-central-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3003,
+            "signature_hash": "sha256-hash-for-language-3003",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 3,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "TechDaily News",
+              "subscriber_count": 39920
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3103,
+                  "record_handle": "techdaily-news",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3103,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3203,
+              "record_slug": "techdaily-news-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3004,
+            "signature_hash": "sha256-hash-for-language-3004",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 4,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "Meme Lord Central",
+              "subscriber_count": 49093
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3104,
+                  "record_handle": "meme-lord-central",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3104,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3204,
+              "record_slug": "meme-lord-central-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3005,
+            "signature_hash": "sha256-hash-for-language-3005",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 5,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "Fitness Junkies",
+              "subscriber_count": 58266
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3105,
+                  "record_handle": "fitness-junkies",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3105,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3205,
+              "record_slug": "fitness-junkies-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3006,
+            "signature_hash": "sha256-hash-for-language-3006",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 6,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "Movie Buffs Unite",
+              "subscriber_count": 67439
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3106,
+                  "record_handle": "movie-buffs-unite",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3106,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3206,
+              "record_slug": "movie-buffs-unite-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3007,
+            "signature_hash": "sha256-hash-for-language-3007",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 7,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "StartupGrind",
+              "subscriber_count": 76612
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3107,
+                  "record_handle": "startupgrind",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3107,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3207,
+              "record_slug": "startupgrind-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3008,
+            "signature_hash": "sha256-hash-for-language-3008",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 8,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "Travel Diaries",
+              "subscriber_count": 85785
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3108,
+                  "record_handle": "travel-diaries",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3108,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3208,
+              "record_slug": "travel-diaries-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3009,
+            "signature_hash": "sha256-hash-for-language-3009",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 9,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "Foodie Paradise",
+              "subscriber_count": 94958
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3109,
+                  "record_handle": "foodie-paradise",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3109,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3209,
+              "record_slug": "foodie-paradise-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3010,
+            "signature_hash": "sha256-hash-for-language-3010",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 10,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "PhotoFrame",
+              "subscriber_count": 104131
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3110,
+                  "record_handle": "photoframe",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3110,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3210,
+              "record_slug": "photoframe-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3011,
+            "signature_hash": "sha256-hash-for-language-3011",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 11,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "Music Beats",
+              "subscriber_count": 113304
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3111,
+                  "record_handle": "music-beats",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3111,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3211,
+              "record_slug": "music-beats-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3012,
+            "signature_hash": "sha256-hash-for-language-3012",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 12,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "Science Weekly",
+              "subscriber_count": 122477
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3112,
+                  "record_handle": "science-weekly",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3112,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3212,
+              "record_slug": "science-weekly-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3013,
+            "signature_hash": "sha256-hash-for-language-3013",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 13,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "PetLovers Hub",
+              "subscriber_count": 131650
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3113,
+                  "record_handle": "petlovers-hub",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3113,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3213,
+              "record_slug": "petlovers-hub-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3014,
+            "signature_hash": "sha256-hash-for-language-3014",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 14,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "Shopping Deals Now",
+              "subscriber_count": 140823
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3114,
+                  "record_handle": "shopping-deals-now",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3114,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3214,
+              "record_slug": "shopping-deals-now-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3015,
+            "signature_hash": "sha256-hash-for-language-3015",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 15,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "EduTech Insights",
+              "subscriber_count": 149996
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3115,
+                  "record_handle": "edutech-insights",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3115,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3215,
+              "record_slug": "edutech-insights-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 3016,
+            "signature_hash": "sha256-hash-for-language-3016",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 16,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/Tahv28TQlwM0PkeHSwsArh0Wz43WgLGKNbrBcb83Oz5eEzGDGrPK-3ipeyC_pTd7WKElsRo5F2LI68lw49Q6UQ=w240-h480-rw",
+              "title": "Social Butterfly",
+              "subscriber_count": 159169
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 3116,
+                  "record_handle": "social-butterfly",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 3116,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 3216,
+              "record_slug": "social-butterfly-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          }
+        ],
+        "last_id": 3016,
+        "has_more": false
+      }
+    },
+    "categories": {
+      "count": 20,
+      "scopes": {
+        "count": 20,
+        "items": [
+          {
+            "id": 4001,
+            "signature_hash": "sha256-hash-for-language-4001",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 1,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "HeadCircuit",
+              "title": "Games & Fun"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4101,
+                  "record_handle": "games-fun",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4101,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4201,
+              "record_slug": "games-fun-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4002,
+            "signature_hash": "sha256-hash-for-language-4002",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 2,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Acorn",
+              "title": "Crypto & Web3"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4102,
+                  "record_handle": "crypto-web3",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4102,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4202,
+              "record_slug": "crypto-web3-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4003,
+            "signature_hash": "sha256-hash-for-language-4003",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 3,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Airplane",
+              "title": "News & Media"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4103,
+                  "record_handle": "news-media",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4103,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4203,
+              "record_slug": "news-media-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4004,
+            "signature_hash": "sha256-hash-for-language-4004",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 4,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Alien",
+              "title": "Tools & Productivity"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4104,
+                  "record_handle": "tools-productivity",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4104,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4204,
+              "record_slug": "tools-productivity-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4005,
+            "signature_hash": "sha256-hash-for-language-4005",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 5,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Anchor",
+              "title": "Education & Tech"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4105,
+                  "record_handle": "education-tech",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4105,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4205,
+              "record_slug": "education-tech-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4006,
+            "signature_hash": "sha256-hash-for-language-4006",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 6,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Atom",
+              "title": "Finance & Business"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4106,
+                  "record_handle": "finance-business",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4106,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4206,
+              "record_slug": "finance-business-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4007,
+            "signature_hash": "sha256-hash-for-language-4007",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 7,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "House",
+              "title": "Social & Chat"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4107,
+                  "record_handle": "social-chat",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4107,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4207,
+              "record_slug": "social-chat-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4008,
+            "signature_hash": "sha256-hash-for-language-4008",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 8,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Balloon",
+              "title": "Art & Design"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4108,
+                  "record_handle": "art-design",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4108,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4208,
+              "record_slug": "art-design-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4009,
+            "signature_hash": "sha256-hash-for-language-4009",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 9,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Basket",
+              "title": "Movies & Music"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4109,
+                  "record_handle": "movies-music",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4109,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4209,
+              "record_slug": "movies-music-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4010,
+            "signature_hash": "sha256-hash-for-language-4010",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 10,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Basketball",
+              "title": "Shopping & Deals"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4110,
+                  "record_handle": "shopping-deals",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4110,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4210,
+              "record_slug": "shopping-deals-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4011,
+            "signature_hash": "sha256-hash-for-language-4011",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 11,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Bell",
+              "title": "Health & Lifestyle"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4111,
+                  "record_handle": "health-lifestyle",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4111,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4211,
+              "record_slug": "health-lifestyle-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4012,
+            "signature_hash": "sha256-hash-for-language-4012",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 12,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Bird",
+              "title": "Travel & Places"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4112,
+                  "record_handle": "travel-places",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4112,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4212,
+              "record_slug": "travel-places-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4013,
+            "signature_hash": "sha256-hash-for-language-4013",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 13,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "HeadCircuit",
+              "title": "Sports & Fitness"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4113,
+                  "record_handle": "sports-fitness",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4113,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4213,
+              "record_slug": "sports-fitness-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4014,
+            "signature_hash": "sha256-hash-for-language-4014",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 14,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Acorn",
+              "title": "Food & Cooking"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4114,
+                  "record_handle": "food-cooking",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4114,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4214,
+              "record_slug": "food-cooking-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4015,
+            "signature_hash": "sha256-hash-for-language-4015",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 15,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Airplane",
+              "title": "Photography"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4115,
+                  "record_handle": "photography",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4115,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4215,
+              "record_slug": "photography-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4016,
+            "signature_hash": "sha256-hash-for-language-4016",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 16,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Alien",
+              "title": "Music Production"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4116,
+                  "record_handle": "music-production",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4116,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4216,
+              "record_slug": "music-production-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4017,
+            "signature_hash": "sha256-hash-for-language-4017",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 17,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Anchor",
+              "title": "Startups & Business"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4117,
+                  "record_handle": "startups-business",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4117,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4217,
+              "record_slug": "startups-business-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4018,
+            "signature_hash": "sha256-hash-for-language-4018",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 18,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Atom",
+              "title": "Memes & Humor"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4118,
+                  "record_handle": "memes-humor",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4118,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4218,
+              "record_slug": "memes-humor-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4019,
+            "signature_hash": "sha256-hash-for-language-4019",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 19,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "House",
+              "title": "Science & Research"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4119,
+                  "record_handle": "science-research",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4119,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4219,
+              "record_slug": "science-research-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 4020,
+            "signature_hash": "sha256-hash-for-language-4020",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 20,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "icon_name": "Balloon",
+              "title": "Pets & Animals"
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 4120,
+                  "record_handle": "pets-animals",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 4120,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 4220,
+              "record_slug": "pets-animals-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          }
+        ],
+        "last_id": 4020,
+        "has_more": false
+      }
+    },
+    "hot": {
+      "count": 16,
+      "scopes": {
+        "count": 16,
+        "items": [
+          {
+            "id": 5001,
+            "signature_hash": "sha256-hash-for-language-5001",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 1,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Web3 Frontier",
+              "subscriber_count": 21975
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5101,
+                  "record_handle": "web3-frontier",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5101,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5201,
+              "record_slug": "web3-frontier-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5002,
+            "signature_hash": "sha256-hash-for-language-5002",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 2,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Bot Battles",
+              "subscriber_count": 31148
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5102,
+                  "record_handle": "bot-battles",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5102,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5202,
+              "record_slug": "bot-battles-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5003,
+            "signature_hash": "sha256-hash-for-language-5003",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 3,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Global Newsroom",
+              "subscriber_count": 40321
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5103,
+                  "record_handle": "global-newsroom",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5103,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5203,
+              "record_slug": "global-newsroom-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5004,
+            "signature_hash": "sha256-hash-for-language-5004",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 4,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "AI Tools Daily",
+              "subscriber_count": 49494
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5104,
+                  "record_handle": "ai-tools-daily",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5104,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5204,
+              "record_slug": "ai-tools-daily-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5005,
+            "signature_hash": "sha256-hash-for-language-5005",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 5,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Learn & Grow",
+              "subscriber_count": 58667
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5105,
+                  "record_handle": "learn-grow",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5105,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5205,
+              "record_slug": "learn-grow-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5006,
+            "signature_hash": "sha256-hash-for-language-5006",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 6,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Market Movers",
+              "subscriber_count": 67840
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5106,
+                  "record_handle": "market-movers",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5106,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5206,
+              "record_slug": "market-movers-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5007,
+            "signature_hash": "sha256-hash-for-language-5007",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 7,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Chat Corner",
+              "subscriber_count": 77013
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5107,
+                  "record_handle": "chat-corner",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5107,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5207,
+              "record_slug": "chat-corner-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5008,
+            "signature_hash": "sha256-hash-for-language-5008",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 8,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Art Gallery Live",
+              "subscriber_count": 86186
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5108,
+                  "record_handle": "art-gallery-live",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5108,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5208,
+              "record_slug": "art-gallery-live-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5009,
+            "signature_hash": "sha256-hash-for-language-5009",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 9,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Cinema Nights",
+              "subscriber_count": 95359
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5109,
+                  "record_handle": "cinema-nights",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5109,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5209,
+              "record_slug": "cinema-nights-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5010,
+            "signature_hash": "sha256-hash-for-language-5010",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 10,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Deal Hunters",
+              "subscriber_count": 104532
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5110,
+                  "record_handle": "deal-hunters",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5110,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5210,
+              "record_slug": "deal-hunters-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5011,
+            "signature_hash": "sha256-hash-for-language-5011",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 11,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Wellness Circle",
+              "subscriber_count": 113705
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5111,
+                  "record_handle": "wellness-circle",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5111,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5211,
+              "record_slug": "wellness-circle-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5012,
+            "signature_hash": "sha256-hash-for-language-5012",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 12,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Wanderlust Guide",
+              "subscriber_count": 122878
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5112,
+                  "record_handle": "wanderlust-guide",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5112,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5212,
+              "record_slug": "wanderlust-guide-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5013,
+            "signature_hash": "sha256-hash-for-language-5013",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 13,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Kitchen Stories",
+              "subscriber_count": 132051
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5113,
+                  "record_handle": "kitchen-stories",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5113,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5213,
+              "record_slug": "kitchen-stories-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5014,
+            "signature_hash": "sha256-hash-for-language-5014",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 14,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Lens & Light",
+              "subscriber_count": 141224
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5114,
+                  "record_handle": "lens-light",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5114,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5214,
+              "record_slug": "lens-light-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5015,
+            "signature_hash": "sha256-hash-for-language-5015",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 15,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Beat Drop",
+              "subscriber_count": 150397
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5115,
+                  "record_handle": "beat-drop",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5115,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5215,
+              "record_slug": "beat-drop-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          },
+          {
+            "id": 5016,
+            "signature_hash": "sha256-hash-for-language-5016",
+            "record_group": "language-group",
+            "record_type": "language-card",
+            "record_num": 16,
+            "status": "published",
+            "published_at": 1718100000,
+            "details": {
+              "image": "https://play-lh.googleusercontent.com/12KEJDhgk6oyE1VgmfCuFzFrQripZ_endElbvEhU1rZawQgV3RI-v3II8fDslI1sdC_WKBkmtxS3jxuIihk33Q=w240-h480-rw",
+              "title": "Curious Minds",
+              "subscriber_count": 159570
+            },
+            "model": {
+              "id": 511,
+              "record_type": "language-card",
+              "created_at": 1718100000,
+              "project": {
+                "id": 601,
+                "namespace": "tg-park",
+                "project_key": "primary"
+              }
+            },
+            "handles": {
+              "count": 1,
+              "items": [
+                {
+                  "id": 5116,
+                  "record_handle": "curious-minds",
+                  "state": "primary",
+                  "created_at": 1718100000,
+                  "updated_at": 1718100000,
+                  "model_handle": {
+                    "id": 811,
+                    "handle_type": "slug",
+                    "is_multiple": false
+                  }
+                }
+              ],
+              "last_id": 5116,
+              "has_more": false
+            },
+            "primary_slug": {
+              "id": 5216,
+              "record_slug": "curious-minds-slug",
+              "state": "primary",
+              "updated_at": 1718100000
+            }
+          }
+        ],
+        "last_id": 5016,
+        "has_more": false
+      }
+    }
+  }
+}
